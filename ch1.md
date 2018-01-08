@@ -1,4 +1,4 @@
-# Functional-Light JavaScript
+# Functional-Light JavaScript.
 # Chapter 1: Why Functional Programming?
 
 > Functional programmer: (noun) One who names variables "x", names functions "f", and names code patterns "zygohistomorphic prepromorphism"
